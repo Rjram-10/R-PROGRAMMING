@@ -2,6 +2,7 @@
 x<-1:10
 
 num=as.numeric(readline("Enter number want to skip in 1-10:- "))
+
 for(i in x){
   if(i==num){
     next
@@ -12,7 +13,9 @@ for(i in x){
 #----------break with repeat loop------
 
 a<-1
+
 num1=as.numeric(readline("Enter number till want to print :- "))
+
 repeat{
   if(a>num1){
     break
