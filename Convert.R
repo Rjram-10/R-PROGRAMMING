@@ -10,6 +10,7 @@ num4
 num5<- as.numeric(TRUE)
 num5
 
+
 int1<- as.integer(263.12)
 print(int1)
 int2<- as.integer(26-45i)
