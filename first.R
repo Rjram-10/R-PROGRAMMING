@@ -12,7 +12,7 @@ print(class(v))
 #integer
 j <- 2L
 print(j)
-print(class(j))
+print(class(j)) 
 
 #complex
 k <- 2+3i
